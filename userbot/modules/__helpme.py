@@ -4,11 +4,10 @@
 # you may not use this file except in compliance with the License.
 #
 
-# Asena UserBot - Yusuf Usta
+# JuggerSnot UserBot - Hades
 #
 
-# @Qulec tarafından yazılmıştır.
-# Thanks @Spechide.
+# @orospudunya tarafından yazılmıştır.
 
 import asyncio
 import json
