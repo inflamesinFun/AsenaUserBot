@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://hizliresim.com/CkMQjH" width="200" height="200">
+  <img src="https://i.hizliresim.com/CkMQjH.jpg" width="200" height="200">
   <h1>JuggerSnot UserBot</h1>
 </div>
 <p align="center">
