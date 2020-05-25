@@ -31,15 +31,6 @@ Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/lege
 
 ```
     Userbottan dolayı; Telegram hesabınız yasaklanabilir.
-    Bu bir açık kaynaklı projedir, yaptığınız her işlemden kendiniz sorumlusunuz. Kesinlikle JuggerSnot yöneticileri sorumluluk kabul etmemektedir.
+  yaptığınız her işlemden kendiniz sorumlusunuz. Kesinlikle JuggerSnot yöneticileri sorumluluk kabul etmemektedir.
     JuggerSnot kurarak bu sorumlulukları kabul etmiş sayılırsınız.
 ```
-
-## Credit
-Thanks for;
-
-[RaphielGang for creating Telegram-Userbot](https://github.com/RaphielGang)
-
-[Tdug Team for Translations](https://github.com/TeamDerUntergang)
-
-[Spechide for Inline Bot Plugin](https://github.com/Spechide)
