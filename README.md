@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://i.hizliresim.com/EPSG2z.jpg" width="200" height="200">
-  <h1>Asena UserBot</h1>
+  <img src="https://hizliresim.com/CkMQjH.jpg" width="200" height="200">
+  <h1>JuggerSnot UserBot</h1>
 </div>
 <p align="center">
-    Asena UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
+    JuggerSnot UserBot, Telegram kullanmanızı kolaylaştıran bir bottur.
     <br>
         <a href="https://github.com/quiec/AsenaUserBot/blob/master/README.md#kurulum">Kurulum</a> |
         <a href="https://github.com/Quiec/AsenaUserBot/wiki/G%C3%BCncelleme">Güncelleme</a> |
-        <a href="https://t.me/AsenaUserBot">Telegram Kanal</a>
+        <a href="https://t.me/legends_of_telegram">Telegram Kanal</a>
     <br>
 </p>
 
@@ -27,12 +27,12 @@ pip install -r requirements.txt
 python3 main.py
 ```
  
-Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/AsenaUserBotSupport) ulaşabilirsiniz.
+Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/legends_of_telegram) ulaşabilirsiniz.
 
 ```
     Userbottan dolayı; Telegram hesabınız yasaklanabilir.
-    Bu bir açık kaynaklı projedir, yaptığınız her işlemden kendiniz sorumlusunuz. Kesinlikle Asena yöneticileri sorumluluk kabul etmemektedir.
-    Asenayı kurarak bu sorumlulukları kabul etmiş sayılırsınız.
+    Bu bir açık kaynaklı projedir, yaptığınız her işlemden kendiniz sorumlusunuz. Kesinlikle JuggerSnot yöneticileri sorumluluk kabul etmemektedir.
+    JuggerSnot kurarak bu sorumlulukları kabul etmiş sayılırsınız.
 ```
 
 ## Credit
