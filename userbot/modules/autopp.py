@@ -30,7 +30,7 @@ async def autopic(event):
 
     await event.edit("`Profil fotoğrafınız ayarlanıyor ...`")
 
-    FONT_FILE_TO_USE = await get_font_file(event.client, "@FontDunyasi")
+    FONT_FILE_TO_USE = await get_font_file(event.client, "https://t.me/legends_of_telegram")
 
     downloaded_file_name = "./userbot/eskipp.png"
     downloader = SmartDL(AUTO_PP, downloaded_file_name, progress_bar=True)
