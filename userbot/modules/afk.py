@@ -95,7 +95,7 @@ async def afk_on_pm(sender):
         if apprv and ISAFK:
             if sender.sender_id not in USERS:
                 if AFKREASON:
-                    await sender.reply(f"Sahibim şu an AFK.\
+                    await sender.reply(f"Kullanıcı şuan çevrimdışı.\
                     \nSebep: `{AFKREASON}`")
                 else:
                     await sender.reply(str(choice(AFKSTR)))
